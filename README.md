@@ -4,7 +4,7 @@ I am a Computer Science student passionate about building efficient software sol
 
 ---
 
-### 🔹 Interests
+###  Interests
 
 * **Software Development:** Building scalable and maintainable applications.
 * **Web Development:** Creating responsive interfaces using modern web frameworks.
@@ -13,7 +13,7 @@ I am a Computer Science student passionate about building efficient software sol
 
 ---
 
-### 🛠 Technical Skills
+###  Technical Skills
 
 **Languages**
 * Java, C#, & Python
@@ -29,29 +29,27 @@ I am a Computer Science student passionate about building efficient software sol
 
 ---
 
-### 🚀 Current Focus
+###  Current Focus
 
 I am currently deepening my understanding of backend architecture and API design. I am also exploring advanced concepts in database management and secure software practices.
 
 ---
 
-### 📂 Projects
+###  Projects
 
 **Smart VAR (Video Assistant Referee) System**
 * Designed and built an IoT-based prototype to automate offside detection in football using distance measurement logic.
 * **Tech Stack:** C++, ESP32, HC-SR04 Ultrasonic Sensor, Servo Motor, LCD Display.
 * **Key Features:** Real-time distance monitoring, automated visual feedback for offside decisions, and hardware integration.
-* [Link to Repository](#)
 
 **Date Calculator: High-Level to Low-Level**
 * A comparative project implementing complex date arithmetic in both C++ and MIPS Assembly.
 * **Tech Stack:** C++, MIPS Assembly.
 * **Key Features:** Demonstrates the translation of high-level logic (loops, conditions) into low-level machine instructions and manual memory management.
-* [Link to Repository](#)
 
 ---
 
-### 📫 How to Reach Me
+###  How to Reach Me
 
 * **GitHub:** [github.com/SameerShawareb](https://github.com/SameerShawareb)
 * **Email:** [sameershawareb@gmail.com](mailto:sameershawareb@gmail.com)
