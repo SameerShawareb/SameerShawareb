@@ -1,59 +1,71 @@
-# Hi there, I'm Sameer Shawareb
+<h1 align="center">Sameer Shawareb</h1>
+<h3 align="center">Computer Science Student | Software Engineer | Embedded Systems Enthusiast</h3>
 
-I am a Computer Science student passionate about building efficient software solutions. My academic background has provided me with a strong foundation in algorithmic problem-solving and software engineering principles. I am currently focused on expanding my skillset in full-stack web development, system-level programming, and embedded systems.
+<p align="center">
+  <em>"Live as if you were to die tomorrow. Learn as if you were to live forever."</em>
+</p>
+
+<p align="center">
+  <a href="mailto:sameershawareb@gmail.com">Email Me</a> •
+  <a href="https://github.com/SameerShawareb">GitHub Profile</a>
+</p>
 
 ---
 
-###  Interests
+###  About Me
 
-* **Software Development:** Building scalable and maintainable applications.
-* **Web Development:** Creating responsive interfaces using modern web frameworks.
-* **IoT & Embedded Systems:** Experimenting with hardware-software integration using ESP32 and Arduino.
-* **Low-Level Programming:** Understanding computer architecture through C++ and Assembly.
+I am a Computer Science undergraduate driven by the intersection of **software efficiency** and **hardware integration**. My focus lies in engineering scalable full-stack solutions and optimizing system-level performance. I bridge the gap between high-level logic and low-level architecture, with a specific interest in **IoT ecosystems** and **Backend Architecture**.
 
 ---
 
-###  Technical Skills
+###  Tech Stack & Arsenal
 
-**Languages**
-* Java, C#, & Python
-* C++ & MIPS Assembly
-* JavaScript (ES6+)
-* Dart
-
-**Web & Technologies**
-* Node.js & Express.js
-* HTML5 & CSS3
-* MongoDB & SQL
-* Git & Version Control
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `Java` `C#` `Python` `C++` `MIPS Assembly` `Dart` `JavaScript (ES6+)` |
+| **Backend & DB** | `Node.js` `Express.js` `MongoDB` `SQL` `REST APIs` |
+| **Web & Mobile** | `HTML5` `CSS3` `Flutter` |
+| **Tools & Systems** | `Git` `Linux` `VS Code` `Arduino/ESP32` |
 
 ---
 
 ###  Current Focus
 
-I am currently deepening my understanding of backend architecture and API design. I am also exploring advanced concepts in database management and secure software practices.
+* **Backend Scalability:** Deepening knowledge in API design patterns and secure database management.
+* **System Architecture:** Exploring the transition from high-level abstractions to machine-level instructions.
+* **Security:** Investigating secure coding practices and data protection in web applications.
 
 ---
 
-###  Projects
+###  Featured Projects
 
-**Smart VAR (Video Assistant Referee) System**
-* Designed and built an IoT-based prototype to automate offside detection in football using distance measurement logic.
-* **Tech Stack:** C++, ESP32, HC-SR04 Ultrasonic Sensor, Servo Motor, LCD Display.
-* **Key Features:** Real-time distance monitoring, automated visual feedback for offside decisions, and hardware integration.
+####  Smart VAR System (IoT & Embedded Logic)**
+> *An automated hardware solution for real-time sports officiating.*
+* **The Challenge:** Eliminating human error in offside detection using low-cost hardware.
+* **The Solution:** Engineered an ESP32-based prototype utilizing ultrasonic sensors for precise distance measurement and servo-controlled visual feedback.
+* **Tech:** `C++` `ESP32` `Hardware Interrupts` `Sensors`
+* [View Repository](#)
 
-**Date Calculator: High-Level to Low-Level**
-* A comparative project implementing complex date arithmetic in both C++ and MIPS Assembly.
-* **Tech Stack:** C++, MIPS Assembly.
-* **Key Features:** Demonstrates the translation of high-level logic (loops, conditions) into low-level machine instructions and manual memory management.
-
----
-
-###  How to Reach Me
-
-* **GitHub:** [github.com/SameerShawareb](https://github.com/SameerShawareb)
-* **Email:** [sameershawareb@gmail.com](mailto:sameershawareb@gmail.com)
+####  Date Calculator (Architecture & Optimization)**
+> *A comparative study in algorithmic efficiency and memory management.*
+* **The Challenge:** Translating complex high-level arithmetic logic into raw machine instructions.
+* **The Solution:** Implemented a dual-version calculator. The C++ version handles logic abstraction, while the MIPS Assembly version demonstrates manual stack management and register optimization.
+* **Tech:** `C++` `MIPS Assembly` `Low-Level Logic`
+* [View Repository](#)
 
 ---
 
-*"Live as if you were to die tomorrow. Learn as if you were to live forever."*
+###  GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/SameerShawareb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SameerShawareb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerShawareb&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Built by Sameer Shawareb</sub>
+</div>
