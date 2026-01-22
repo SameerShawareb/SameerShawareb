@@ -1,5 +1,5 @@
 <h1 align="center">Sameer Shawareb</h1>
-<h3 align="center">Computer Science Student | Software Engineer | Embedded Systems Enthusiast</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <p align="center">
   <em>"Live as if you were to die tomorrow. Learn as if you were to live forever."</em>
@@ -14,55 +14,44 @@
 
 ###  About Me
 
-I am a Computer Science undergraduate driven by the intersection of **software efficiency** and **hardware integration**. My focus lies in engineering scalable full-stack solutions and optimizing system-level performance. I bridge the gap between high-level logic and low-level architecture, with a specific interest in **IoT ecosystems** and **Backend Architecture**.
+I am a Computer Science undergraduate passionate about building efficient software and exploring hardware integration. My academic background has provided me with a strong foundation in algorithms and system architecture. I am currently focused on expanding my skills in **web development**, **mobile apps**, and **IoT ecosystems**.
 
 ---
 
-###  Tech Stack & Arsenal
+###  Tech Stack
 
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | `Java` `C#` `Python` `C++` `MIPS Assembly` `Dart` `JavaScript (ES6+)` |
-| **Backend & DB** | `Node.js` `Express.js` `MongoDB` `SQL` `REST APIs` |
+| **Backend & DB** | `Node.js` `Express.js` `MongoDB` `SQL` |
 | **Web & Mobile** | `HTML5` `CSS3` `Flutter` |
-| **Tools & Systems** | `Git` `Linux` `VS Code` `Arduino/ESP32` |
+| **Tools & Systems** | `Git` `VS Code` `Arduino/ESP32` |
 
 ---
 
 ###  Current Focus
 
-* **Backend Scalability:** Deepening knowledge in API design patterns and secure database management.
-* **System Architecture:** Exploring the transition from high-level abstractions to machine-level instructions.
-* **Security:** Investigating secure coding practices and data protection in web applications.
+* **Backend Development:** Learning API design patterns and database management.
+* **System Architecture:** Understanding the transition from high-level code to machine-level instructions.
+* **Security:** Studying secure coding practices and basic web security.
 
 ---
 
-###  Featured Projects
+###  Projects
 
 ####  Smart VAR System (IoT & Embedded Logic)**
 > *An automated hardware solution for real-time sports officiating.*
-* **The Challenge:** Eliminating human error in offside detection using low-cost hardware.
-* **The Solution:** Engineered an ESP32-based prototype utilizing ultrasonic sensors for precise distance measurement and servo-controlled visual feedback.
+* **The Goal:** Automate offside detection in football using distance measurement logic.
+* **How it works:** Uses an ESP32 microcontroller with ultrasonic sensors to detect distance changes and triggers a servo-controlled visual alert.
 * **Tech:** `C++` `ESP32` `Hardware Interrupts` `Sensors`
 * [View Repository](#)
 
-####  Date Calculator (Architecture & Optimization)**
-> *A comparative study in algorithmic efficiency and memory management.*
-* **The Challenge:** Translating complex high-level arithmetic logic into raw machine instructions.
-* **The Solution:** Implemented a dual-version calculator. The C++ version handles logic abstraction, while the MIPS Assembly version demonstrates manual stack management and register optimization.
+####  Date Calculator (High-Level vs Low-Level)**
+> *A comparative project in algorithmic logic.*
+* **The Goal:** To translate complex high-level arithmetic logic into raw machine instructions.
+* **How it works:** Implements the same date calculation logic in C++ and MIPS Assembly to demonstrate the differences in memory management and instruction processing.
 * **Tech:** `C++` `MIPS Assembly` `Low-Level Logic`
 * [View Repository](#)
-
----
-
-###  GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/SameerShawareb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SameerShawareb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerShawareb&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
 
 ---
 
