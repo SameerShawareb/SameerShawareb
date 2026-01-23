@@ -51,7 +51,7 @@ I am a Computer Science undergraduate passionate about building efficient softwa
 * **The Goal:** To translate complex high-level arithmetic logic into raw machine instructions.
 * **How it works:** Implements the same date calculation logic in C++ and MIPS Assembly to demonstrate the differences in memory management and instruction processing.
 * **Tech:** `C++` `MIPS Assembly` `Low-Level Logic`
-* [View Repository](#)
+* [View Repository](https://github.com/SameerShawareb/Date-Calculator-CPP-MIPS)
 
 ---
 
