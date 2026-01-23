@@ -12,24 +12,24 @@
 
 ---
 
-###  About Me
+### 👨‍💻 About Me
 
 I am a Computer Science undergraduate passionate about building efficient software and exploring hardware integration. My academic background has provided me with a strong foundation in algorithms and system architecture. I am currently focused on expanding my skills in **web development**, **mobile apps**, and **IoT ecosystems**.
 
 ---
 
-###  Tech Stack
+### 🛠 Tech Stack
 
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | `Java` `C#` `Python` `C++` `MIPS Assembly` `Dart` `JavaScript (ES6+)` |
 | **Backend & DB** | `Node.js` `Express.js` `MongoDB` `SQL` |
 | **Web & Mobile** | `HTML5` `CSS3` `Flutter` |
-| **Tools & Systems** | `Git` `VS Code` `Arduino/ESP32` |
+| **Tools & Systems** | `Git` `VS Code` `Arduino` |
 
 ---
 
-###  Current Focus
+### 🔭 Current Focus
 
 * **Backend Development:** Learning API design patterns and database management.
 * **System Architecture:** Understanding the transition from high-level code to machine-level instructions.
@@ -37,16 +37,16 @@ I am a Computer Science undergraduate passionate about building efficient softwa
 
 ---
 
-###  Projects
+### 📂 Projects
 
-####  Smart VAR System (IoT & Embedded Logic)**
+#### **⚽ Smart VAR System (IoT & Embedded Logic)**
 > *An automated hardware solution for real-time sports officiating.*
 * **The Goal:** Automate offside detection in football using distance measurement logic.
-* **How it works:** Uses an ESP32 microcontroller with ultrasonic sensors to detect distance changes and triggers a servo-controlled visual alert.
-* **Tech:** `C++` `ESP32` `Hardware Interrupts` `Sensors`
+* **How it works:** Uses an **Arduino** microcontroller with ultrasonic sensors to detect distance changes and triggers a servo-controlled visual alert.
+* **Tech:** `C++` `Arduino` `Hardware Interrupts` `Sensors`
 * [View Repository](https://github.com/SameerShawareb/Smart-VAR-Arduino)
 
-####  Date Calculator (High-Level vs Low-Level)**
+#### **📅 Date Calculator (High-Level vs Low-Level)**
 > *A comparative project in algorithmic logic.*
 * **The Goal:** To translate complex high-level arithmetic logic into raw machine instructions.
 * **How it works:** Implements the same date calculation logic in C++ and MIPS Assembly to demonstrate the differences in memory management and instruction processing.
