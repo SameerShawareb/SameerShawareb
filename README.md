@@ -44,7 +44,7 @@ I am a Computer Science undergraduate passionate about building efficient softwa
 * **The Goal:** Automate offside detection in football using distance measurement logic.
 * **How it works:** Uses an ESP32 microcontroller with ultrasonic sensors to detect distance changes and triggers a servo-controlled visual alert.
 * **Tech:** `C++` `ESP32` `Hardware Interrupts` `Sensors`
-* [View Repository](#)
+* [View Repository](https://github.com/SameerShawareb/Smart-VAR-Arduino)
 
 ####  Date Calculator (High-Level vs Low-Level)**
 > *A comparative project in algorithmic logic.*
