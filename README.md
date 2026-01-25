@@ -39,6 +39,13 @@ I am a Computer Science undergraduate passionate about building efficient softwa
 
 ### 📂 Projects
 
+#### **🤖 Advanced AI Code Analyzer (Static Analysis & LLM)**
+> *A production-ready Python code analyzer combining AST metrics with AI reasoning.*
+* **The Goal:** Automate code quality assurance by merging deep static analysis with AI-powered refactoring suggestions.
+* **How it works:** Parses Python AST to detect structural issues, runs security checks via `bandit`, and uses an LLM layer to explain complex bugs and suggest fixes.
+* **Tech:** `Python` `AST` `LLMs` `FastAPI` `Bandit` `Radon`
+* [View Repository](https://github.com/SameerShawareb/Advanced-AI-Code-Analyzer)
+
 #### **⚽ Smart VAR System (IoT & Embedded Logic)**
 > *An automated hardware solution for real-time sports officiating.*
 * **The Goal:** Automate offside detection in football using distance measurement logic.
