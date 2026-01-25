@@ -44,7 +44,7 @@ I am a Computer Science undergraduate passionate about building efficient softwa
 * **The Goal:** Automate code quality assurance by merging deep static analysis with AI-powered refactoring suggestions.
 * **How it works:** Parses Python AST to detect structural issues, runs security checks via `bandit`, and uses an LLM layer to explain complex bugs and suggest fixes.
 * **Tech:** `Python` `AST` `LLMs` `FastAPI` `Bandit` `Radon`
-* [View Repository](https://github.com/SameerShawareb/Advanced-AI-Code-Analyzer)
+* [View Repository](https://github.com/SameerShawareb/AI-Code-Analyzer)
 
 #### **⚽ Smart VAR System (IoT & Embedded Logic)**
 > *An automated hardware solution for real-time sports officiating.*
